@@ -1,0 +1,103 @@
+library(tidyverse)
+library(tidyr)
+library(dplyr)
+library(vegan)
+library(mobr)
+library(nlme)
+library(lme4)
+library(MuMIn)
+library(scales)
+library(ggplot2)
+library(gridExtra)
+
+knitr::opts_knit$set(root.dir='../', tidy = TRUE)
+
+## Load in and format Data ##
+dat <- read.csv("./bird_data_yr3.csv")
+
+## Create community matrix ##
+# create unique wetland_id date field so that each unique point count has a separate identifier
+dat$uni_id_date <- with(dat, paste(wetland_id, date, sep='_'))
+length(unique(dat$uni_id_date))
+
+comm <- tapply(dat$'25m',
+               INDEX = list (dat$uni_id_date, dat$species),
+               mean)
+comm <- ifelse(is.na(comm), 0, comm)
+
+row.names(comm) <- comm[ , 1]
+comm <- comm[ , -1]
+
+# Why are comm row names not the uni_id_date that I made? # 
+
+dat$block <- as.factor(dat$block)
+
+## Configure data coding only for abundance ##
+abundance <- dat %>%
+  group_by(species , site_type) %>%
+  dplyr::summarise(cnt=n())
+
+## Histograms to explore relationship between specific species and sites ##
+uni_sp <- unique(dat$species)
+sp_sum <- apply(comm, 2, sum)
+site_sum <- apply(comm, 1, sum)
+
+par(mfrow=c(2,2))
+hist(sp_sum, xlab= "Species")
+col <- colorRamp(c('red', 'orange', 'blue'))
+sp_cols <- col(length(uni_sp))
+plot(sp_sum[order(sp_sum, decreasing=T)], type='o', col='red', lwd=2,
+     xlab='Sp Rank', ylab='Sum Cover')
+hist(site_sum)
+plot(site_sum[order(site_sum, decreasing=T)], type='o', col='red', lwd=2,
+     xlab='Site Rank', ylab='Sum Cover')
+
+## Boxplot of species presence/abundance between site types ##
+boxplot(cnt ~ site_type, data = abundance, ylab= "Count")
+
+## Environmental Data Matrix Creation ##
+cols_to_keep <- c('site_type', 'species','X25m', 'uni_id_date')
+env <- aggregate(dat[ , cols_to_keep], by = list(dat$uni_id_date), function(x) x[1]) 
+
+row.names(env) <- env[ , 1]
+env <- env[ , -1]
+head(env)
+
+## Check if rows are equal ##
+all.equal(rownames(comm), rownames(env))
+ # It says that they are both 123 rows but also says its a mismatch? #
+
+rownames(comm) <- 1:nrow(comm)
+rownames(env) <- 1:nrow(env)
+
+## Line graphs for Shannon Diversity, Evenness, etc. between site types ##
+
+## RDA - to see what species are found in what habitat ##
+
+rda_bird <- rda(comm, env)
+
+rda_bird <- rda(comm ~ env$site_type + env$species)
+RsquareAdj(rda_bird)
+
+plot(rda_bird, type='n', scaling=1)
+orditorp(rda_bird, display='sp', cex=0.5, scaling=1, col='blue')
+text(rda_bird, display='cn', col='red')
+
+par(mfrow=c(1, 1))
+
+plot(rda_bird, display = c('cn', 'sp'))
+orditorp(rda_bird, display= 'sp', col = "red", air = 0.65)
+
+plot(rda_bird, type='n', scaling=1)
+orditorp(rda_bird, display='sp', scaling = 1, cex=1, col='black', air = 2)
+text(rda_bird, display='bp', col='red', labels = c('Upland', 'Wetland'))
+  
+  # Why is there multiple Upland/Wetland locations? #
+
+anova(rda_bird, by='margin', permutations=999)
+
+## Rarefaction Curve - to account for more upland habitats having been sampled ##
+dat$N <- rowSums(comm)
+dat$S <- rowSums(comm > 0 )
+dat$S_n <- apply(comm, 1, rarefaction, 'IBR', effort = 5, extrapolate = F,
+                 quiet_mode = TRUE)
