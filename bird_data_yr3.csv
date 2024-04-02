@@ -1,0 +1,678 @@
+date,year,time,site,block,treatment,site_type,wetland_id,pair_id,temp,water,wind,species,method,25m,50m,total
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,WEVI,,1,,1
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,NOCA,,3,,3
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,TUTI,,1,1,2
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,RBWO,,,1,1
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,CACH,,,1,1
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,NOPA,,1,,1
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,AMRO,,,1,1
+5/16/2023,2023,6:50,halidon,4,none,wetland,HH02,UP02A,65,no,0,REVI,,,1,1
+5/16/2023,2023,7:03,halidon,4,none,upland,UP02A,HH02,65,,0,SUTA,,1,,1
+5/16/2023,2023,7:03,halidon,4,none,upland,UP02A,HH02,65,,0,INBU,,1,,1
+5/16/2023,2023,7:03,halidon,4,none,upland,UP02A,HH02,65,,0,TUTI,,,1,1
+5/16/2023,2023,7:03,halidon,4,none,upland,UP02A,HH02,65,,0,BHCO,,,1,1
+5/16/2023,2023,7:03,halidon,4,none,upland,UP02A,HH02,65,,0,AMRO,,,1,1
+5/16/2023,2023,7:12,halidon,4,none,wetland,HH01,UP01A,68,no,0,COYE,,2,1,3
+5/16/2023,2023,7:12,halidon,4,none,wetland,HH01,UP01A,68,no,0,NOCA,,1,,1
+5/16/2023,2023,7:12,halidon,4,none,wetland,HH01,UP01A,68,no,0,INBU,,,1,1
+5/16/2023,2023,7:25,halidon,4,none,upland,UP01A,HH01,69,,0,TUTI,,,1,1
+5/16/2023,2023,7:25,halidon,4,none,upland,UP01A,HH01,69,,0,NOCA,,,1,1
+5/16/2023,2023,7:25,halidon,4,none,upland,UP01A,HH01,69,,0,EABL,,,1,1
+5/16/2023,2023,7:45,halidon,4,none,wetland,HH04,UP04,72,no,0,TUTI,,2,,2
+5/16/2023,2023,7:45,halidon,4,none,wetland,HH04,UP04,72,no,0,COYE,,,1,1
+5/16/2023,2023,7:45,halidon,4,none,wetland,HH04,UP04,72,no,0,BGGN,,1,,1
+5/16/2023,2023,8:01,halidon,4,none,upland,UP04,HH04,72,,0,COYE,,1,1,2
+5/16/2023,2023,8:01,halidon,4,none,upland,UP04,HH04,72,,0,YBCH,,,1,1
+5/16/2023,2023,8:01,halidon,4,none,upland,UP04,HH04,72,,0,EABL,,,2,2
+5/16/2023,2023,8:01,halidon,4,none,upland,UP04,HH04,72,,0,OROR,,1,,1
+5/16/2023,2023,8:01,halidon,4,none,upland,UP04,HH04,72,,0,NOCA,,1,,1
+5/16/2023,2023,8:01,halidon,4,none,upland,UP04,HH04,72,,0,EAKI,,,1,1
+5/16/2023,2023,8:30,halidon,4,none,upland,UP05A,HH05,74,,0,PIWA,,2,1,3
+5/16/2023,2023,8:30,halidon,4,none,upland,UP05A,HH05,74,,0,COYE,,,1,1
+5/16/2023,2023,8:30,halidon,4,none,upland,UP05A,HH05,74,,0,EATO,,,1,1
+5/16/2023,2023,8:30,halidon,4,none,upland,UP05A,HH05,74,,0,BHNU,,,1,1
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,SUTA,,2,,2
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,BGGN,,2,,2
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,PIWA,,,1,1
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,YBCH,,,1,1
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,GCFL,,,1,1
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,COYE,,,1,1
+5/16/2023,2023,8:20,halidon,4,none,wetland,HH05,UP05A,72,no,0,BHNU,,,2,2
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,DOWO,,1,,1
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,PIWA,,1,,1
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,NOCA,,,1,1
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,COYE,,1,,1
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,BGGN,,2,,2
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,BHNU,,,1,1
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,CARW,,2,1,3
+5/16/2023,2023,8:45,halidon,4,none,wetland,HH07,UP07A,76,no,5,TUTI,,,1,1
+6/1/2023,2023,8:02,halidon,7,none,upland,UP46A,HH46,68,,8,COYE,,1,1,2
+6/1/2023,2023,8:02,halidon,7,none,upland,UP46A,HH46,68,,8,BASP,,1,1,2
+6/1/2023,2023,8:02,halidon,7,none,upland,UP46A,HH46,68,,8,EABL,,,1,1
+6/1/2023,2023,8:02,halidon,7,none,upland,UP46A,HH46,68,,8,MODO,,,2,2
+6/1/2023,2023,8:02,halidon,7,none,upland,UP46A,HH46,68,,8,EAKI,,,1,1
+6/1/2023,2023,8:02,halidon,7,none,upland,UP46A,HH46,68,,8,BGGN,,,1,1
+6/5/2023,2023,6:56,halidon,1,cut leave,wetland,HH13,UP13A,59,yes,3,COYE,,1,1,2
+6/5/2023,2023,6:56,halidon,1,cut leave,wetland,HH13,UP13A,59,yes,3,TUTI,,1,2,3
+6/5/2023,2023,6:56,halidon,1,cut leave,wetland,HH13,UP13A,59,yes,3,EATO,,,1,1
+6/5/2023,2023,6:56,halidon,1,cut leave,wetland,HH13,UP13A,59,yes,3,GCFL,,1,,1
+6/5/2023,2023,6:56,halidon,1,cut leave,wetland,HH13,UP13A,59,yes,3,RBWO,,,1,1
+6/5/2023,2023,7:08,halidon,1,canopy clear,upland,UP34rA,HH34r,60,,3,EAKI,,1,1,2
+6/5/2023,2023,7:08,halidon,1,canopy clear,upland,UP34rA,HH34r,60,,3,BGGN,,1,,1
+6/5/2023,2023,7:08,halidon,1,canopy clear,upland,UP34rA,HH34r,60,,3,NOCA,,,1,1
+6/5/2023,2023,7:08,halidon,1,canopy clear,upland,UP34rA,HH34r,60,,3,COYE,,,1,1
+6/5/2023,2023,7:08,halidon,1,canopy clear,upland,UP34rA,HH34r,60,,3,BASP,,,1,1
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,COYE,,,1,1
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,EAKI,,,2,2
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,TUTI,,1,1,2
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,RHWO,,1,,1
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,BLGR,,1,,1
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,BGGN,,,2,2
+6/5/2023,2023,7:19,halidon,1,cut remove,wetland,HH34r,UP34rA,60,yes,4,NOMO,,1,,1
+6/5/2023,2023,7:29,halidon,1,canopy clear,upland,UP01A,HH01,62,,4,BHNU,,2,,2
+6/5/2023,2023,7:29,halidon,1,canopy clear,upland,UP01A,HH01,62,,4,EAKI,,2,1,3
+6/5/2023,2023,7:29,halidon,1,canopy clear,upland,UP01A,HH01,62,,4,NOCA,,,1,1
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,TUTI,,1,,1
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,NOCA,,3,,3
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,RBWO,,1,,1
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,GCFL,,2,,2
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,NOMO,,,1,1
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,BGGN,,1,,1
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,CARW,,1,,1
+6/5/2023,2023,7:37,halidon,1,cut remove,wetland,HH34r,UP34rA,63,yes,3,EABL,,,1,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,EAWP,,1,,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,EABL,,,1,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,BASP,,,1,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,BHNU,,,1,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,COYE,,,1,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,RBWO,,1,,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,NOCA,,1,,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,CHSP,,,1,1
+6/5/2023,2023,7:48,halidon,1,none,wetland,HH33,UP33A,65,no,5,CARW,,,1,1
+6/5/2023,2023,8:03,halidon,1,canopy clear,upland,UP33A,HH33,66,,6,BLGR,,,1,1
+6/5/2023,2023,8:03,halidon,1,canopy clear,upland,UP33A,HH33,66,,6,NOCA,,,1,1
+6/5/2023,2023,8:03,halidon,1,canopy clear,upland,UP33A,HH33,66,,6,EATO,,,1,1
+6/5/2023,2023,8:03,halidon,1,canopy clear,upland,UP33A,HH33,66,,6,EAKI,,,2,2
+6/5/2023,2023,8:03,halidon,1,canopy clear,upland,UP33A,HH33,66,,6,SUTA,,1,,1
+6/5/2023,2023,8:12,halidon,7,canopy clear,upland,UP31A,HH31,66,,5,PIWA,,,1,1
+6/5/2023,2023,8:12,halidon,7,canopy clear,upland,UP31A,HH31,66,,5,COYE,,,1,1
+6/5/2023,2023,8:12,halidon,7,canopy clear,upland,UP31A,HH31,66,,5,BHNU,,,2,2
+6/5/2023,2023,8:12,halidon,7,canopy clear,upland,UP31A,HH31,66,,5,DOWO,,1,,1
+6/5/2023,2023,8:12,halidon,7,canopy clear,upland,UP31A,HH31,66,,5,EATO,,,1,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,BGGN,,1,,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,NOCA,,,2,2
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,COYE,,,1,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,PIWA,,,1,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,BHNU,,,1,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,DOWO,,1,,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,EATO,,,1,1
+6/5/2023,2023,8:21,halidon,1,none,wetland,HH32,#N/A,66,yes,6,OROR,,1,,1
+6/5/2023,2023,8:37,halidon,7,cut remove,wetland,HH31,UP31A,67,yes,6,COYE,,1,,1
+6/5/2023,2023,8:37,halidon,7,cut remove,wetland,HH31,UP31A,67,yes,6,PIWA,,,1,1
+6/5/2023,2023,8:37,halidon,7,cut remove,wetland,HH31,UP31A,67,yes,6,NOCA,,,1,1
+6/5/2023,2023,8:37,halidon,7,cut remove,wetland,HH31,UP31A,67,yes,6,RBWO,,,2,2
+6/5/2023,2023,8:37,halidon,7,cut remove,wetland,HH31,UP31A,67,yes,6,EAKI,,1,,1
+6/5/2023,2023,8:48,halidon,7,none,wetland,HH30,UP30A,68,yes,7,EABL,,,1,1
+6/5/2023,2023,8:48,halidon,7,none,wetland,HH30,UP30A,68,yes,7,COYE,,1,2,3
+6/5/2023,2023,8:48,halidon,7,none,wetland,HH30,UP30A,68,yes,7,EAWP,,,1,1
+6/5/2023,2023,8:48,halidon,7,none,wetland,HH30,UP30A,68,yes,7,YBCH,,1,,1
+6/6/2023,2023,6:55,halidon,7,none,wetland,HH46,UP46A,64,yes,0,BASP,,,1,1
+6/6/2023,2023,6:55,halidon,7,none,wetland,HH46,UP46A,64,yes,0,CACH,,1,,1
+6/6/2023,2023,6:55,halidon,7,none,wetland,HH46,UP46A,64,yes,0,COYE,,2,1,3
+6/6/2023,2023,6:55,halidon,7,none,wetland,HH46,UP46A,64,yes,0,EABL,,,1,1
+6/6/2023,2023,6:55,halidon,7,none,wetland,HH46,UP46A,64,yes,0,GCFL,,,1,1
+6/6/2023,2023,6:55,halidon,7,none,wetland,HH46,UP46A,64,yes,0,EATO,,,1,1
+6/6/2023,2023,7:05,halidon,7,none,wetland,HH45,UP45A,65,no,0,BGGN,,1,,1
+6/6/2023,2023,7:05,halidon,7,none,wetland,HH45,UP45A,65,no,0,BLGR,,2,,2
+6/6/2023,2023,7:27,halidon,7,none,upland,UP45A,HH45,66,,1,NOMO,,,1,1
+6/6/2023,2023,7:27,halidon,7,none,upland,UP45A,HH45,66,,1,COYE,,1,,1
+6/6/2023,2023,7:27,halidon,7,none,upland,UP45A,HH45,66,,1,BGGN,,,1,1
+6/6/2023,2023,7:27,halidon,7,none,upland,UP45A,HH45,66,,1,OROR,,1,,1
+6/6/2023,2023,7:27,halidon,7,none,upland,UP45A,HH45,66,,1,EAKI,,,2,2
+6/6/2023,2023,7:45,halidon,7,none,wetland,HH43,UP43A,68,no,0,CARW,,1,,1
+6/6/2023,2023,7:45,halidon,7,none,wetland,HH43,UP43A,68,no,0,GCFL,,,1,1
+6/6/2023,2023,7:45,halidon,7,none,wetland,HH43,UP43A,68,no,0,TUTI,,1,1,2
+6/6/2023,2023,7:56,halidon,7,canopy clear,upland,UP43A,HH43,69,,1,EATO,,1,,1
+6/6/2023,2023,7:56,halidon,7,canopy clear,upland,UP43A,HH43,69,,1,COYE,,,2,2
+6/6/2023,2023,7:56,halidon,7,canopy clear,upland,UP43A,HH43,69,,1,BGGN,,,1,1
+6/6/2023,2023,7:56,halidon,7,canopy clear,upland,UP43A,HH43,69,,1,RBWO,,1,,1
+6/6/2023,2023,7:56,halidon,7,canopy clear,upland,UP43A,HH43,69,,1,TUTI,,1,,1
+6/6/2023,2023,7:56,halidon,7,canopy clear,upland,UP43A,HH43,69,,1,NOPA,,,1,1
+6/6/2023,2023,8:14,halidon,1,canopy clear,upland,UP13A,HH13,70,,4,GCFL,,1,1,2
+6/6/2023,2023,8:14,halidon,1,canopy clear,upland,UP13A,HH13,70,,4,NOCA,,1,,1
+6/6/2023,2023,8:14,halidon,1,canopy clear,upland,UP13A,HH13,70,,4,SUTA,,1,,1
+6/6/2023,2023,8:14,halidon,1,canopy clear,upland,UP13A,HH13,70,,4,BHCO,,,2,2
+6/6/2023,2023,8:14,halidon,1,canopy clear,upland,UP13A,HH13,70,,4,RBWO,,,1,1
+6/6/2023,2023,8:25,halidon,2,none,wetland,HH14,UP02,71,,3,COGR,,,2,2
+6/6/2023,2023,8:25,halidon,2,none,wetland,HH14,UP02,71,,3,BGGN,,2,,2
+6/6/2023,2023,8:25,halidon,2,none,wetland,HH14,UP02,71,,3,COYE,,,1,1
+6/6/2023,2023,8:35,halidon,4,canopy clear,upland,UP02,HH14,72,,4,BASP,,,1,1
+6/6/2023,2023,8:35,halidon,4,canopy clear,upland,UP02,HH14,72,,4,BHNU,,1,1,2
+6/6/2023,2023,8:35,halidon,4,canopy clear,upland,UP02,HH14,72,,4,EABL,,1,,1
+6/6/2023,2023,8:35,halidon,4,canopy clear,upland,UP02,HH14,72,,4,PIWA,,1,,1
+6/6/2023,2023,8:52,halidon,4,none,wetland,HH07,UP07A,72,,2,COYE,,,2,2
+6/6/2023,2023,8:52,halidon,4,none,wetland,HH07,UP07A,72,,2,BRTH,,1,,1
+6/6/2023,2023,8:52,halidon,4,none,wetland,HH07,UP07A,72,,2,SUTA,,2,,2
+6/6/2023,2023,8:52,halidon,4,none,wetland,HH07,UP07A,72,,2,BGGN,,1,1,2
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,TUTI,,,1,1
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,PIWA,,,2,2
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,BHNU,,,1,1
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,EAWP,,,1,1
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,RBWO,,,1,1
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,COYE,,,1,1
+5/20/2023,2023,7:37,halidon,1,canopy clear,upland,UP13A,HH13,68,,3,DOWO,,1,,1
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,PIWO,,2,,2
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,CARW,,1,,1
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,BGGN,,2,,2
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,EATO,,,1,1
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,RBWO,,,1,1
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,NOCA,,5,,5
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,COYE,,1,,1
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,PIWA,,,1,1
+5/20/2023,2023,7:50,halidon,1,cut leave,wetland,HH13,UP13A,69,,2,MODO,,1,,1
+5/20/2023,2023,8:04,halidon,1,cut remove,wetland,HH34r,UP34rA,70,,3,BGGN,,2,1,3
+5/20/2023,2023,8:04,halidon,1,cut remove,wetland,HH34r,UP34rA,70,,3,INBU,,,1,1
+5/20/2023,2023,8:04,halidon,1,cut remove,wetland,HH34r,UP34rA,70,,3,RHWO,,,2,2
+5/20/2023,2023,8:04,halidon,1,cut remove,wetland,HH34r,UP34rA,70,,3,YBCH,,,1,1
+5/20/2023,2023,8:04,halidon,1,cut remove,wetland,HH34r,UP34rA,70,,3,COYE,,,2,2
+5/20/2023,2023,6:58,halidon,4,none,upland,UP07A,HH07,66,,0,EATO,,2,1,3
+5/20/2023,2023,6:58,halidon,4,none,upland,UP07A,HH07,66,,0,COYE,,,1,1
+5/20/2023,2023,6:58,halidon,4,none,upland,UP07A,HH07,66,,0,RBWO,,,1,1
+5/20/2023,2023,6:58,halidon,4,none,upland,UP07A,HH07,66,,0,BGGN,,,1,1
+5/20/2023,2023,7:12,halidon,2,canopy clear,upland,UP02,HH14,66,,1,EAKI,,,1,1
+5/20/2023,2023,7:12,halidon,2,canopy clear,upland,UP02,HH14,66,,1,KILL,,,2,2
+5/20/2023,2023,7:12,halidon,2,canopy clear,upland,UP02,HH14,66,,1,BASP,,1,,1
+5/20/2023,2023,7:12,halidon,2,canopy clear,upland,UP02,HH14,66,,1,PIWA,,,1,1
+5/20/2023,2023,7:12,halidon,2,canopy clear,upland,UP02,HH14,66,,1,BHNU,,1,,1
+5/20/2023,2023,7:23,halidon,2,none,wetland,HH14,UP02,67,yes,2,NOMO,,,1,1
+5/20/2023,2023,7:23,halidon,2,none,wetland,HH14,UP02,67,yes,2,BASP,,1,1,2
+5/20/2023,2023,7:23,halidon,2,none,wetland,HH14,UP02,67,yes,2,BGGN,,2,,2
+5/20/2023,2023,7:23,halidon,2,none,wetland,HH14,UP02,67,yes,2,EAKI,,1,,1
+5/20/2023,2023,7:23,halidon,2,none,wetland,HH14,UP02,67,yes,2,MODO,,,1,1
+5/20/2023,2023,7:23,halidon,2,none,wetland,HH14,UP02,67,yes,2,COGR,,,2,2
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,BHNU,,3,,3
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,EATO,,2,,2
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,EAWP,,,1,1
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,BGGN,,2,,2
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,WBNU,,,1,1
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,PIWA,,1,1,2
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,GCFL,,,2,2
+5/20/2023,2023,9:00,halidon,2,none,wetland,HH22,UP22A,70,yes,5,BLGR,,,1,1
+5/20/2023,2023,9:11,halidon,2,canopy clear,upland,UP22A,HH22,70,,5,COYE,,,3,3
+5/20/2023,2023,9:11,halidon,2,canopy clear,upland,UP22A,HH22,70,,5,BASP,,1,,1
+5/20/2023,2023,9:11,halidon,2,canopy clear,upland,UP22A,HH22,70,,5,TUTI,,,1,1
+5/20/2023,2023,9:11,halidon,2,canopy clear,upland,UP22A,HH22,70,,5,CARW,,,1,1
+5/20/2023,2023,9:11,halidon,2,canopy clear,upland,UP22A,HH22,70,,5,PIWA,,,1,1
+5/20/2023,2023,9:11,halidon,2,canopy clear,upland,UP22A,HH22,70,,5,GCFL,,,1,1
+5/22/2023,2023,7:07,halidon,3,canopy clear,upland,UP48A,HH48,67,,8,BGGN,,2,,2
+5/22/2023,2023,7:07,halidon,3,canopy clear,upland,UP48A,HH48,67,,8,EABL,,,1,1
+5/22/2023,2023,7:07,halidon,3,canopy clear,upland,UP48A,HH48,67,,8,PIWA,,2,1,3
+5/22/2023,2023,7:07,halidon,3,canopy clear,upland,UP48A,HH48,67,,8,BHNU,,,1,1
+5/20/2023,2023,8:15,halidon,1,canopy clear,upland,UP34rA,HH34r,69,,2,RHWO,,1,1,2
+5/20/2023,2023,8:15,halidon,1,canopy clear,upland,UP34rA,HH34r,69,,2,BASP,,,1,1
+5/20/2023,2023,8:15,halidon,1,canopy clear,upland,UP34rA,HH34r,69,,2,EAKI,,1,,1
+5/20/2023,2023,8:15,halidon,1,canopy clear,upland,UP34rA,HH34r,69,,2,OROR,,,1,1
+5/20/2023,2023,8:15,halidon,1,canopy clear,upland,UP34rA,HH34r,69,,2,NOMO,,,2,2
+5/20/2023,2023,8:15,halidon,1,canopy clear,upland,UP34rA,HH34r,69,,2,BHNU,,,1,1
+5/20/2023,2023,8:24,halidon,1,canopy clear,upland,UP01,HH34,70,,3,NOMO,,1,1,2
+5/20/2023,2023,8:24,halidon,1,canopy clear,upland,UP01,HH34,70,,3,COYE,,,1,1
+5/20/2023,2023,8:24,halidon,1,canopy clear,upland,UP01,HH34,70,,3,EAKI,,1,,1
+5/20/2023,2023,8:24,halidon,1,canopy clear,upland,UP01,HH34,70,,3,INBU,,1,,1
+5/20/2023,2023,8:33,halidon,1,none,wetland,HH34,UP01,70,no,3,COYE,,1,2,3
+5/20/2023,2023,8:33,halidon,1,none,wetland,HH34,UP01,70,no,3,NOMO,,,1,1
+5/20/2023,2023,8:33,halidon,1,none,wetland,HH34,UP01,70,no,3,YBCH,,,1,1
+5/20/2023,2023,8:33,halidon,1,none,wetland,HH34,UP01,70,no,3,BGGN,,1,1,2
+5/20/2023,2023,8:33,halidon,1,none,wetland,HH34,UP01,70,no,3,OROR,,2,,2
+5/20/2023,2023,8:33,halidon,1,none,wetland,HH34,UP01,70,no,3,BRTH,,1,,1
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,BGGN,,,2,2
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,YTWA,,,1,1
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,BASP,,,1,1
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,RHWO,,1,,1
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,BHCO,,1,,1
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,PIWA,,1,,1
+5/22/2023,2023,8:32,halidon,3,none,upland,UP03,HH49,72,,7,CARW,,,1,1
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,PIWA,,1,,1
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,RBWO,,1,,1
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,CACH,,,2,2
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,BHCO,,,1,1
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,BHNU,,3,,3
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,DOWO,,2,,2
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,BGGN,,,2,2
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,INBU,,,1,1
+5/22/2023,2023,8:44,halidon,3,none,upland,UP50A,HH50,72,,6,WBNU,,1,,1
+5/23/2023,2023,7:12,halidon,7,none,wetland,HH46,UP46A,63,yes,2,BGGN,,1,,1
+5/23/2023,2023,7:12,halidon,7,none,wetland,HH46,UP46A,63,yes,2,COYE,,1,,1
+5/23/2023,2023,7:12,halidon,7,none,wetland,HH46,UP46A,63,yes,2,BHCO,,3,,3
+5/23/2023,2023,7:12,halidon,7,none,wetland,HH46,UP46A,63,yes,2,EATO,,,1,1
+5/22/2023,2023,7:45,halidon,3,cut leave,wetland,HH48,UP48A,68,yes,1,PIWA,,,3,3
+5/22/2023,2023,7:45,halidon,3,cut leave,wetland,HH48,UP48A,68,yes,1,COYE,,,2,2
+5/22/2023,2023,7:45,halidon,3,cut leave,wetland,HH48,UP48A,68,yes,1,RHWO,,,1,1
+5/22/2023,2023,7:45,halidon,3,cut leave,wetland,HH48,UP48A,68,yes,1,BGGN,,1,,1
+5/22/2023,2023,7:45,halidon,3,cut leave,wetland,HH48,UP48A,68,yes,1,CACH,,1,,1
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,COYE,,1,,1
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,NOCA,,1,,1
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,BGGN,,2,,2
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,CACH,,2,,2
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,EAWP,,,1,1
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,GCFL,,1,,1
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,RBWO,,1,1,2
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,RHWO,,2,2,4
+5/22/2023,2023,7:54,halidon,3,none,wetland,HH49,UP03,69,yes,2,PIWA,,,1,1
+5/22/2023,2023,8:23,halidon,3,cut remove,wetland,HH50,UP50A,71,no,0,YTWA,,1,1,2
+5/22/2023,2023,8:23,halidon,3,cut remove,wetland,HH50,UP50A,71,no,0,NOCA,,2,1,3
+5/22/2023,2023,8:23,halidon,3,cut remove,wetland,HH50,UP50A,71,no,0,BGGN,,2,,2
+5/22/2023,2023,8:23,halidon,3,cut remove,wetland,HH50,UP50A,71,no,0,EABL,,,1,1
+5/22/2023,2023,8:23,halidon,3,cut remove,wetland,HH50,UP50A,71,no,0,RBWO,,,1,1
+5/23/2023,2023,8:42,halidon,7,none,wetland,HH43,UP43A,68,no,0,BGGN,,,2,2
+5/23/2023,2023,8:42,halidon,7,none,wetland,HH43,UP43A,68,no,0,COYE,,,2,2
+5/23/2023,2023,8:42,halidon,7,none,wetland,HH43,UP43A,68,no,0,NOCA,,1,1,2
+5/23/2023,2023,8:42,halidon,7,none,wetland,HH43,UP43A,68,no,0,NOPA,,1,,1
+5/23/2023,2023,8:42,halidon,7,none,wetland,HH43,UP43A,68,no,0,PIWA,,,1,1
+5/23/2023,2023,8:56,halidon,7,none,upland,UP43A,HH43,69,,1,INBU,,1,,1
+5/23/2023,2023,8:56,halidon,7,none,upland,UP43A,HH43,69,,1,PIWA,,,1,1
+5/23/2023,2023,8:56,halidon,7,none,upland,UP43A,HH43,69,,1,COYE,,,1,1
+5/23/2023,2023,8:56,halidon,7,none,upland,UP43A,HH43,69,,1,EAKI,,,1,1
+5/23/2023,2023,8:56,halidon,7,none,upland,UP43A,HH43,69,,1,BHNU,,,1,1
+5/23/2023,2023,8:56,halidon,7,none,upland,UP43A,HH43,69,,1,NOCA,,1,,1
+5/24/2023,2023,7:05,halidon,2,cut leave,wetland,HH17,UP17A,62,yes,3,DOWO,,1,,1
+5/24/2023,2023,7:05,halidon,2,cut leave,wetland,HH17,UP17A,62,yes,3,BGGN,,2,,2
+5/24/2023,2023,7:05,halidon,2,cut leave,wetland,HH17,UP17A,62,yes,3,BHNU,,1,2,3
+5/24/2023,2023,7:05,halidon,2,cut leave,wetland,HH17,UP17A,62,yes,3,NOMO,,,1,1
+5/24/2023,2023,7:05,halidon,2,cut leave,wetland,HH17,UP17A,62,yes,3,EABL,,,1,1
+5/23/2023,2023,7:26,halidon,7,none,upland,UP46A,HH46,63,,1,BASP,,,2,2
+5/23/2023,2023,7:26,halidon,7,none,upland,UP46A,HH46,63,,1,BLGR,,,1,1
+5/23/2023,2023,7:26,halidon,7,none,upland,UP46A,HH46,63,,1,COYE,,,1,1
+5/23/2023,2023,7:26,halidon,7,none,upland,UP46A,HH46,63,,1,KILL,,,1,1
+5/23/2023,2023,7:54,halidon,7,none,wetland,HH45,UP45A,64,no,0,EABL,,,1,1
+5/23/2023,2023,7:54,halidon,7,none,wetland,HH45,UP45A,64,no,0,BLGR,,,2,2
+5/23/2023,2023,7:54,halidon,7,none,wetland,HH45,UP45A,64,no,0,BGGN,,1,,1
+5/23/2023,2023,7:54,halidon,7,none,wetland,HH45,UP45A,64,no,0,COYE,,1,,1
+5/23/2023,2023,8:08,halidon,7,none,upland,UP45A,HH45,65,,2,BGGN,,,1,1
+5/23/2023,2023,8:08,halidon,7,none,upland,UP45A,HH45,65,,2,COYE,,1,1,2
+5/23/2023,2023,8:08,halidon,7,none,upland,UP45A,HH45,65,,2,OROR,,,1,1
+5/24/2023,2023,8:21,halidon,2,none,wetland,HH22,UP22A,63,yes,4,BGGN,,1,,1
+5/24/2023,2023,8:21,halidon,2,none,wetland,HH22,UP22A,63,yes,4,OROR,,,1,1
+5/24/2023,2023,8:21,halidon,2,none,wetland,HH22,UP22A,63,yes,4,COYE,,,1,1
+5/24/2023,2023,8:35,halidon,2,canopy clear,upland,UP22A,HH22,63,,2,EABL,,,1,1
+5/24/2023,2023,8:35,halidon,2,canopy clear,upland,UP22A,HH22,63,,2,NOMO,,,1,1
+5/24/2023,2023,8:35,halidon,2,canopy clear,upland,UP22A,HH22,63,,2,COYE,,,1,1
+5/24/2023,2023,8:35,halidon,2,canopy clear,upland,UP22A,HH22,63,,2,TUTI,,,1,1
+5/24/2023,2023,9:06,halidon,7,none,wetland,HH30,UP30A,64,no,2,COYE,,2,,2
+5/24/2023,2023,9:06,halidon,7,none,wetland,HH30,UP30A,64,no,2,PIWA,,,1,1
+5/24/2023,2023,9:06,halidon,7,none,wetland,HH30,UP30A,64,no,2,EATO,,1,1,2
+5/24/2023,2023,9:06,halidon,7,none,wetland,HH30,UP30A,64,no,2,DOWO,,,1,1
+5/24/2023,2023,7:17,halidon,2,canopy clear,upland,UP17A,HH17,62,,0,BHNU,,1,1,2
+5/24/2023,2023,7:17,halidon,2,canopy clear,upland,UP17A,HH17,62,,0,BASP,,1,1,2
+5/24/2023,2023,7:17,halidon,2,canopy clear,upland,UP17A,HH17,62,,0,COYE,,1,1,2
+5/24/2023,2023,7:17,halidon,2,canopy clear,upland,UP17A,HH17,62,,0,PIWA,,,1,1
+5/24/2023,2023,7:17,halidon,2,canopy clear,upland,UP17A,HH17,62,,0,EABL,,,1,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,NOMO,,,1,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,COGR,,,1,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,BHNU,,1,,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,BGGN,,1,,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,COYE,,1,,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,BASP,,,1,1
+5/24/2023,2023,7:39,halidon,2,none,wetland,HH14,UP02,63,yes,1,DOWO,,1,,1
+5/24/2023,2023,7:48,halidon,2,canopy clear,upland,UP02,HH14,64,,2,KILL,,1,,1
+5/24/2023,2023,7:48,halidon,2,canopy clear,upland,UP02,HH14,64,,2,COGR,,1,,1
+5/24/2023,2023,7:48,halidon,2,canopy clear,upland,UP02,HH14,64,,2,BASP,,,1,1
+5/24/2023,2023,7:48,halidon,2,canopy clear,upland,UP02,HH14,64,,2,OROR,,,1,1
+5/25/2023,2023,7:42,halidon,4,none,upland,UP05A,HH05,64,,5,COYE,,2,1,3
+5/25/2023,2023,7:42,halidon,4,none,upland,UP05A,HH05,64,,5,EATO,,,1,1
+5/25/2023,2023,7:42,halidon,4,none,upland,UP05A,HH05,64,,5,PIWA,,1,,1
+5/25/2023,2023,7:42,halidon,4,none,upland,UP05A,HH05,64,,5,RCWO,,,1,1
+5/25/2023,2023,7:57,halidon,4,none,wetland,HH05,UP05A,64,,3,SUTA,,1,1,2
+5/25/2023,2023,7:57,halidon,4,none,wetland,HH05,UP05A,64,,3,COYE,,,1,1
+5/25/2023,2023,7:57,halidon,4,none,wetland,HH05,UP05A,64,no,3,PIWA,,2,,2
+5/25/2023,2023,7:57,halidon,4,none,wetland,HH05,UP05A,64,no,3,CARW,,,1,1
+5/25/2023,2023,7:57,halidon,4,none,wetland,HH05,UP05A,64,no,3,BHCO,,,1,1
+5/25/2023,2023,7:57,halidon,4,none,wetland,HH05,UP05A,64,no,3,INBU,,,1,1
+5/25/2023,2023,8:18,halidon,4,none,upland,UP04,HH04,65,,4,COYE,,,3,3
+5/25/2023,2023,8:18,halidon,4,none,upland,UP04,HH04,65,,4,EABL,,,1,1
+5/25/2023,2023,8:18,halidon,4,none,upland,UP04,HH04,65,,4,MODO,,1,,1
+5/25/2023,2023,8:18,halidon,4,none,upland,UP04,HH04,65,,4,NOCA,,,2,2
+5/25/2023,2023,8:18,halidon,4,none,upland,UP04,HH04,65,,4,GCFL,,1,,1
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,DOWO,,1,,1
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,COYE,,1,1,2
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,BHNU,,,1,1
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,OROR,,,1,1
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,RBWO,,1,,1
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,MODO,,1,,1
+5/24/2023,2023,9:24,halidon,7,none,wetland,HH31,UP31A,72,yes,3,NOCA,,,1,1
+5/25/2023,2023,7:00,halidon,4,none,wetland,HH07,UP07A,62,no,2,WEVI,,,1,1
+5/25/2023,2023,7:00,halidon,4,none,wetland,HH07,UP07A,62,no,2,CARW,,1,2,3
+5/25/2023,2023,7:00,halidon,4,none,wetland,HH07,UP07A,62,no,2,COYE,,1,1,2
+5/25/2023,2023,7:00,halidon,4,none,wetland,HH07,UP07A,62,no,2,PIWA,,,1,1
+5/25/2023,2023,7:00,halidon,4,none,wetland,HH07,UP07A,62,no,2,BHCO,,1,,1
+5/25/2023,2023,7:00,halidon,4,none,wetland,HH07,UP07A,62,no,2,EATO,,,1,1
+5/25/2023,2023,7:21,halidon,4,none,upland,UP07A,HH07,64,,2,COYE,,1,1,2
+5/25/2023,2023,7:21,halidon,4,none,upland,UP07A,HH07,64,,2,PIWA,,,1,1
+5/25/2023,2023,7:21,halidon,4,none,upland,UP07A,HH07,64,,2,EATO,,,2,2
+5/25/2023,2023,7:21,halidon,4,none,upland,UP07A,HH07,64,,2,TUTI,,,1,1
+5/25/2023,2023,8:24,halidon,4,none,wetland,HH04,UP04,67,yes,4,TUTI,,1,,1
+5/25/2023,2023,8:24,halidon,4,none,wetland,HH04,UP04,67,yes,4,COYE,,,1,1
+5/25/2023,2023,8:50,halidon,4,none,wetland,HH02,UP02A,69,no,4,NOCA,,3,,3
+5/25/2023,2023,8:50,halidon,4,none,wetland,HH02,UP02A,69,no,4,BGGN,,1,,1
+5/25/2023,2023,8:50,halidon,4,none,wetland,HH02,UP02A,69,no,4,YBCH,,,1,1
+5/25/2023,2023,8:50,halidon,4,none,wetland,HH02,UP02A,69,no,4,CARW,,,1,1
+5/30/2023,2023,6:47,halidon,1,cut remove,wetland,HH13,UP13A,66,yes,0,GCFL,,,1,1
+5/30/2023,2023,6:47,halidon,1,cut remove,wetland,HH13,UP13A,66,yes,0,BGGN,,2,,2
+5/30/2023,2023,6:47,halidon,1,cut remove,wetland,HH13,UP13A,66,yes,0,CACH,,3,,3
+5/30/2023,2023,6:47,halidon,1,cut remove,wetland,HH13,UP13A,66,yes,0,SUTA,,1,,1
+5/30/2023,2023,7:07,halidon,1,none,wetland,HH33,UP33A,66,no,0,NOCA,,1,,1
+5/30/2023,2023,7:07,halidon,1,none,wetland,HH33,UP33A,66,no,0,CARW,,1,,1
+5/30/2023,2023,7:07,halidon,1,none,wetland,HH33,UP33A,66,no,0,EATO,,2,,2
+5/30/2023,2023,7:07,halidon,1,none,wetland,HH33,UP33A,66,no,0,BGGN,,1,,1
+5/30/2023,2023,7:24,halidon,1,canopy clear,upland,UP33A,HH33,67,,0,BHNU,,1,1,2
+5/30/2023,2023,7:24,halidon,1,canopy clear,upland,UP33A,HH33,67,,0,CONI,,1,,1
+5/30/2023,2023,7:24,halidon,1,canopy clear,upland,UP33A,HH33,67,,0,COYE,,,2,2
+5/30/2023,2023,7:24,halidon,1,canopy clear,upland,UP33A,HH33,67,,0,NOCA,,,1,1
+5/30/2023,2023,7:24,halidon,1,canopy clear,upland,UP33A,HH33,67,,0,TUTI,,,2,2
+5/30/2023,2023,7:24,halidon,1,canopy clear,upland,UP33A,HH33,67,,0,EATO,,,1,1
+5/30/2023,2023,7:46,halidon,1,none,wetland,HH32,,68,yes,1,RHWO,,2,,2
+5/30/2023,2023,7:46,halidon,1,none,wetland,HH32,,68,yes,1,BGGN,,2,,2
+5/30/2023,2023,7:46,halidon,1,none,wetland,HH32,,68,yes,1,PIWA,,,1,1
+5/30/2023,2023,7:46,halidon,1,none,wetland,HH32,,68,yes,1,COYE,,2,,2
+5/30/2023,2023,7:46,halidon,1,none,wetland,HH32,,68,yes,1,TUTI,,,1,1
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,NOCA,,,1,1
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,EAWP,,1,,1
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,EATO,,1,,1
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,SUTA,,,1,1
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,BHNU,,,2,2
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,PIWA,,2,1,3
+5/30/2023,2023,8:01,halidon,1,canopy clear,upland,UP31A,HH31,69,,0,OROR,,1,,1
+5/30/2023,2023,8:24,halidon,1,none,wetland,HH34,UP01,70,yes,1,NOCA,,3,,3
+5/30/2023,2023,8:24,halidon,1,none,wetland,HH34,UP01,70,yes,1,NOMO,,1,,1
+5/30/2023,2023,8:24,halidon,1,none,wetland,HH34,UP01,70,yes,1,RBWO,,,1,1
+5/30/2023,2023,8:24,halidon,1,none,wetland,HH34,UP01,70,yes,1,CARW,,2,1,3
+5/30/2023,2023,8:24,halidon,1,none,wetland,HH34,UP01,70,yes,1,COYE,,1,,1
+5/30/2023,2023,8:39,halidon,1,canopy clear,upland,UP01,HH34,71,,0,NOMO,,1,,1
+5/30/2023,2023,8:39,halidon,1,canopy clear,upland,UP01,HH34,71,,0,COYE,,,1,1
+5/30/2023,2023,8:39,halidon,1,canopy clear,upland,UP01,HH34,71,,0,RBWO,,,1,1
+5/31/2023,2023,6:48,halidon,3,none,upland,UP50A,HH50,68,,4,EAWP,,,1,1
+5/31/2023,2023,6:48,halidon,3,none,upland,UP50A,HH50,68,,4,PIWA,,2,1,3
+5/31/2023,2023,6:48,halidon,3,none,upland,UP50A,HH50,68,,4,RBWO,,,1,1
+5/31/2023,2023,6:48,halidon,3,none,upland,UP50A,HH50,68,,4,BHNU,,1,,1
+5/31/2023,2023,6:48,halidon,3,none,upland,UP50A,HH50,68,,4,CACH,,1,,1
+5/31/2023,2023,7:25,halidon,3,cut remove,wetland,HH50,UP50A,70,no,3,BHNU,,2,,2
+5/31/2023,2023,7:25,halidon,3,cut remove,wetland,HH50,UP50A,70,no,3,CARW,,1,,1
+5/31/2023,2023,7:25,halidon,3,cut remove,wetland,HH50,UP50A,70,no,3,YTWA,,2,1,3
+5/31/2023,2023,7:25,halidon,3,cut remove,wetland,HH50,UP50A,70,no,3,PIWA,,,1,1
+5/31/2023,2023,7:25,halidon,3,cut remove,wetland,HH50,UP50A,70,no,3,BLGR,,,1,1
+5/31/2023,2023,7:36,halidon,3,none,upland,UP03,HH49,69,,3,TUTI,,1,,1
+5/31/2023,2023,7:36,halidon,3,none,upland,UP03,HH49,69,,3,CACH,,,2,2
+5/31/2023,2023,7:36,halidon,3,none,upland,UP03,HH49,69,,3,NOCA,,,1,1
+5/31/2023,2023,7:36,halidon,3,none,upland,UP03,HH49,69,,3,YTWA,,,1,1
+5/31/2023,2023,7:36,halidon,3,none,upland,UP03,HH49,69,,3,PIWA,,2,,2
+5/31/2023,2023,7:50,halidon,3,none,wetland,HH49,UP03,70,yes,3,TUTI,,1,1,2
+5/31/2023,2023,7:50,halidon,3,none,wetland,HH49,UP03,70,yes,3,CACH,,2,,2
+5/31/2023,2023,7:50,halidon,3,none,wetland,HH49,UP03,70,yes,3,BGGN,,1,,1
+5/31/2023,2023,7:50,halidon,3,none,wetland,HH49,UP03,70,yes,3,COYE,,,1,1
+5/31/2023,2023,7:50,halidon,3,none,wetland,HH49,UP03,70,yes,3,RHWO,,2,,2
+5/31/2023,2023,7:50,halidon,3,none,wetland,HH49,UP03,70,yes,3,BHCO,,1,,1
+5/31/2023,2023,8:03,halidon,3,cut leave,wetland,HH48,UP48A,70,yes,2,NOCA,,1,,1
+5/31/2023,2023,8:03,halidon,3,cut leave,wetland,HH48,UP48A,70,yes,2,COYE,,1,,1
+5/31/2023,2023,8:03,halidon,3,cut leave,wetland,HH48,UP48A,70,yes,2,PIWA,,1,,1
+5/31/2023,2023,8:24,halidon,3,canopy clear,upland,UP48A,HH48,71,,3,DOWO,,1,,1
+5/31/2023,2023,8:24,halidon,3,canopy clear,upland,UP48A,HH48,71,,3,CACH,,1,,1
+5/31/2023,2023,8:24,halidon,3,canopy clear,upland,UP48A,HH48,71,,3,BLGR,,,1,1
+5/31/2023,2023,8:24,halidon,3,canopy clear,upland,UP48A,HH48,71,,3,TUTI,,,1,1
+5/31/2023,2023,8:24,halidon,3,canopy clear,upland,UP48A,HH48,71,,3,BGGN,,,1,1
+6/1/2023,2023,6:49,halidon,4,none,wetland,HH01,UP01A,67,no,2,COYE,,1,1,2
+6/1/2023,2023,6:49,halidon,4,none,wetland,HH01,UP01A,67,no,2,INBU,,,1,1
+6/1/2023,2023,6:49,halidon,4,none,wetland,HH01,UP01A,67,no,2,BGGN,,1,,1
+6/1/2023,2023,6:49,halidon,4,none,wetland,HH01,UP01A,67,no,2,PIWA,,1,,1
+6/1/2023,2023,6:49,halidon,4,none,wetland,HH01,UP01A,67,no,2,NOCA,,,2,2
+6/1/2023,2023,7:07,halidon,4,none,upland,UP02A,HH02,67,,3,BGGN,,3,,3
+6/1/2023,2023,7:07,halidon,4,none,upland,UP02A,HH02,67,,3,NOMO,,1,,1
+6/1/2023,2023,7:07,halidon,4,none,upland,UP02A,HH02,67,,3,NOCA,,1,1,2
+6/1/2023,2023,7:07,halidon,4,none,upland,UP02A,HH02,67,,3,INBU,,,1,1
+6/1/2023,2023,7:29,halidon,4,none,upland,UP01A,HH01,68,,2,INBU,,,1,1
+6/1/2023,2023,7:29,halidon,4,none,upland,UP01A,HH01,68,,2,CARW,,,1,1
+6/1/2023,2023,7:29,halidon,4,none,upland,UP01A,HH01,68,,2,OROR,,,1,1
+6/1/2023,2023,7:29,halidon,4,none,upland,UP01A,HH01,68,,2,COYE,,,1,1
+6/1/2023,2023,7:29,halidon,4,none,upland,UP01A,HH01,68,,2,EATO,,,1,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,EAKI,,2,,2
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,BHCO,,,1,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,OROR,,1,,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,RHWO,,1,,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,GCFL,,,1,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,PIWA,,,1,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,COYE,,1,,1
+6/7/2023,2023,8:48,halidon,1,canopy clear,upland,UP34rA,HH34r,76,,5,BGGN,,,1,1
+6/7/2023,2023,8:56,halidon,1,cut remove,wetland,HH34r,UP34rA,76,yes,5,MODO,,4,,4
+6/7/2023,2023,8:56,halidon,1,cut remove,wetland,HH34r,UP34rA,76,yes,5,NOMO,,,1,1
+6/7/2023,2023,8:56,halidon,1,cut remove,wetland,HH34r,UP34rA,76,yes,5,BHCO,,1,,1
+6/7/2023,2023,8:56,halidon,1,cut remove,wetland,HH34r,UP34rA,76,yes,5,EAKI,,,1,1
+6/9/2023,2023,7:10,halidon,4,none,wetland,HH02,UP02A,69,no,2,NOCA,,2,,2
+6/9/2023,2023,7:10,halidon,4,none,wetland,HH02,UP02A,69,no,2,NOMO,,,1,1
+6/9/2023,2023,7:10,halidon,4,none,wetland,HH02,UP02A,69,no,2,TUTI,,1,,1
+6/9/2023,2023,7:10,halidon,4,none,wetland,HH02,UP02A,69,no,2,EATO,,,1,1
+6/9/2023,2023,7:10,halidon,4,none,wetland,HH02,UP02A,69,no,2,BHCO,,1,,1
+6/9/2023,2023,7:10,halidon,4,none,wetland,HH02,UP02A,69,no,2,CARW,,,1,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,MODO,,,1,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,NOMO,,,1,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,NOCA,,2,,2
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,COYE,,1,,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,BGGN,,2,,2
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,CARW,,,1,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,DOWO,,1,,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,BHNU,,1,,1
+6/7/2023,2023,8:12,halidon,1,none,wetland,HH33,UP33A,73,no,0,EATO,,,1,1
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,DOWO,,1,,1
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,BHNU,,,2,2
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,PIWA,,1,1,2
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,EATO,,,1,1
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,OROR,,,1,1
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,BASP,,,1,1
+6/7/2023,2023,8:23,halidon,1,canopy clear,upland,UP33A,HH33,74,,0,EAKI,,1,,1
+6/7/2023,2023,8:33,halidon,7,canopy clear,upland,UP31A,HH31,75,,1,NOMO,,,1,1
+6/7/2023,2023,8:33,halidon,7,canopy clear,upland,UP31A,HH31,75,,1,COYE,,,1,1
+6/7/2023,2023,8:33,halidon,7,canopy clear,upland,UP31A,HH31,75,,1,BLGR,,1,,1
+6/7/2023,2023,8:33,halidon,7,canopy clear,upland,UP31A,HH31,75,,1,EAWP,,,1,1
+6/7/2023,2023,8:33,halidon,7,canopy clear,upland,UP31A,HH31,75,,1,OROR,,,1,1
+6/7/2023,2023,7:42,halidon,7,none,wetland,HH30,UP30A,72,no,1,YBCH,,1,,1
+6/7/2023,2023,7:42,halidon,7,none,wetland,HH30,UP30A,72,no,1,COYE,,,2,2
+6/7/2023,2023,7:42,halidon,7,none,wetland,HH30,UP30A,72,no,1,EATO,,1,2,3
+6/7/2023,2023,7:42,halidon,7,none,wetland,HH30,UP30A,72,no,1,BLGR,,,1,1
+6/7/2023,2023,7:50,halidon,7,cut remove,wetland,HH31,UP31A,73,yes,2,COYE,,1,,1
+6/7/2023,2023,7:50,halidon,7,cut remove,wetland,HH31,UP31A,73,yes,2,EATO,,1,1,2
+6/7/2023,2023,7:50,halidon,7,cut remove,wetland,HH31,UP31A,73,yes,2,CARW,,1,,1
+6/7/2023,2023,7:50,halidon,7,cut remove,wetland,HH31,UP31A,73,yes,2,PIWA,,,1,1
+6/7/2023,2023,7:50,halidon,7,cut remove,wetland,HH31,UP31A,73,yes,2,NOMO,,,1,1
+6/7/2023,2023,8:06,halidon,1,none,wetland,HH32,,73,yes,1,NOMO,,,1,1
+6/7/2023,2023,8:06,halidon,1,none,wetland,HH32,,73,yes,1,RHWO,,1,,1
+6/7/2023,2023,8:06,halidon,1,none,wetland,HH32,,73,yes,1,COYE,,2,,2
+6/7/2023,2023,8:06,halidon,1,none,wetland,HH32,,73,yes,1,TUTI,,,2,2
+6/7/2023,2023,8:06,halidon,1,none,wetland,HH32,,73,yes,1,NOCA,,1,1,2
+6/7/2023,2023,6:53,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,3,EABL,,1,1,2
+6/7/2023,2023,6:53,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,3,BGGN,,1,,1
+6/7/2023,2023,6:53,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,3,BHNU,,,2,2
+6/7/2023,2023,6:53,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,3,PIWA,,1,,1
+6/7/2023,2023,6:53,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,3,COYE,,,1,1
+6/7/2023,2023,6:53,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,3,GCFL,,,1,1
+6/7/2023,2023,7:06,halidon,2,canopy clear,upland,UP17A,HH17,71,,3,EABL,,,2,2
+6/7/2023,2023,7:06,halidon,2,canopy clear,upland,UP17A,HH17,71,,3,EAWP,,,1,1
+6/7/2023,2023,7:06,halidon,2,canopy clear,upland,UP17A,HH17,71,,3,RCWO,,1,,1
+6/7/2023,2023,7:06,halidon,2,canopy clear,upland,UP17A,HH17,71,,3,CACH,,2,,2
+6/7/2023,2023,7:06,halidon,2,canopy clear,upland,UP17A,HH17,71,,3,BHNU,,2,,2
+6/7/2023,2023,7:29,halidon,7,none,upland,UP30A,HH30,72,,0,EATO,,1,,1
+6/7/2023,2023,7:29,halidon,7,none,upland,UP30A,HH30,72,,0,CACH,,2,2,4
+6/7/2023,2023,7:29,halidon,7,none,upland,UP30A,HH30,72,,0,BLGR,,1,1,2
+6/7/2023,2023,7:29,halidon,7,none,upland,UP30A,HH30,72,,0,TUTI,,1,,1
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,SUTA,,1,,1
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,BLJA,,1,,1
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,YBCH,,,1,1
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,COYE,,1,1,2
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,BGGN,,1,,1
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,TUTI,,,1,1
+6/9/2023,2023,8:34,halidon,4,none,wetland,HH05,UP05A,75,no,4,HOWA,,1,,1
+6/9/2023,2023,8:51,halidon,4,none,upland,UP07A,HH07,76,,4,COYE,,1,2,3
+6/9/2023,2023,8:51,halidon,4,none,upland,UP07A,HH07,76,,4,BGGN,,2,,2
+6/9/2023,2023,8:51,halidon,4,none,upland,UP07A,HH07,76,,4,EATO,,,1,1
+6/13/2023,2023,6:56,halidon,2,none,wetland,HH22,UP22A,72,yes,0,COYE,,1,1,2
+6/13/2023,2023,6:56,halidon,2,none,wetland,HH22,UP22A,72,yes,0,DOWO,,1,,1
+6/13/2023,2023,6:56,halidon,2,none,wetland,HH22,UP22A,72,yes,0,BGGN,,2,,2
+6/13/2023,2023,6:56,halidon,2,none,wetland,HH22,UP22A,72,yes,0,PIWA,,,1,1
+6/13/2023,2023,6:56,halidon,2,none,wetland,HH22,UP22A,72,yes,0,EATO,,,1,1
+6/13/2023,2023,6:56,halidon,2,none,wetland,HH22,UP22A,72,yes,0,BHNU,,,2,2
+6/9/2023,2023,8:00,halidon,4,none,upland,UP04,HH04,72,,2,COYE,,2,,2
+6/9/2023,2023,8:00,halidon,4,none,upland,UP04,HH04,72,,2,NOMO,,,1,1
+6/9/2023,2023,8:00,halidon,4,none,upland,UP04,HH04,72,,2,OROR,,,1,1
+6/9/2023,2023,8:00,halidon,4,none,upland,UP04,HH04,72,,2,BLGR,,,1,1
+6/9/2023,2023,8:10,halidon,4,none,wetland,HH04,UP04,73,yes,1,MODO,,1,,1
+6/9/2023,2023,8:10,halidon,4,none,wetland,HH04,UP04,73,yes,1,COYE,,1,2,3
+6/9/2023,2023,8:10,halidon,4,none,wetland,HH04,UP04,73,yes,1,EATO,,,1,1
+6/9/2023,2023,8:10,halidon,4,none,wetland,HH04,UP04,73,yes,1,WBNU,,1,,1
+6/9/2023,2023,8:10,halidon,4,none,wetland,HH04,UP04,73,yes,1,BHCO,,1,,1
+6/9/2023,2023,8:10,halidon,4,none,wetland,HH04,UP04,73,yes,1,BGGN,,,1,1
+6/9/2023,2023,8:24,halidon,4,none,wetland,UP05A,HH05,74,,2,EABL,,,1,1
+6/9/2023,2023,8:24,halidon,4,none,wetland,UP05A,HH05,74,,2,COYE,,,1,1
+6/9/2023,2023,8:24,halidon,4,none,wetland,UP05A,HH05,74,,2,BGGN,,1,1,2
+6/9/2023,2023,8:24,halidon,4,none,wetland,UP05A,HH05,74,,2,BHCO,,,1,1
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,NOMO,,1,,1
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,COYE,,1,1,2
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,NOCA,,1,,1
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,BHCO,,1,1,2
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,BGGN,,2,,2
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,BHNU,,1,,1
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,GCFL,,1,,1
+6/9/2023,2023,7:20,halidon,4,none,wetland,HH01,UP01A,70,no,0,BLGR,,,1,1
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,EABL,,1,,1
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,NOMO,,,1,1
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,COYE,,2,,2
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,INBU,,1,,1
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,BHNU,,1,2,3
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,BHCO,,,1,1
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,TUTI,,1,,1
+6/9/2023,2023,7:31,halidon,4,none,upland,UP02A,HH02,71,,3,CHSP,,,1,1
+6/9/2023,2023,7:42,halidon,4,none,upland,UP01A,HH01,72,,3,YBCH,,,1,1
+6/9/2023,2023,7:42,halidon,4,none,upland,UP01A,HH01,72,,3,INBU,,,1,1
+6/9/2023,2023,7:42,halidon,4,none,upland,UP01A,HH01,72,,3,COYE,,,1,1
+6/9/2023,2023,7:42,halidon,4,none,upland,UP01A,HH01,72,,3,BGGN,,1,,1
+6/9/2023,2023,7:42,halidon,4,none,upland,UP01A,HH01,72,,3,CARW,,,1,1
+6/13/2023,2023,7:49,halidon,1,canopy clear,upland,UP13A,HH13,73,,2,NOCA,,1,1,2
+6/13/2023,2023,7:49,halidon,1,canopy clear,upland,UP13A,HH13,73,,2,GCFL,,1,1,2
+6/13/2023,2023,7:49,halidon,1,canopy clear,upland,UP13A,HH13,73,,2,PIWA,,2,,2
+6/13/2023,2023,7:49,halidon,1,canopy clear,upland,UP13A,HH13,73,,2,EABL,,,1,1
+6/13/2023,2023,7:49,halidon,1,canopy clear,upland,UP13A,HH13,73,,2,SUTA,,1,,1
+6/13/2023,2023,8:05,halidon,7,none,upland,UP30A,HH30,74,,0,BLGR,,2,,2
+6/13/2023,2023,8:05,halidon,7,none,upland,UP30A,HH30,74,,0,EATO,,1,1,2
+6/13/2023,2023,8:05,halidon,7,none,upland,UP30A,HH30,74,,0,CARW,,,1,1
+6/13/2023,2023,8:05,halidon,7,none,upland,UP30A,HH30,74,,0,COYE,,1,,1
+6/13/2023,2023,8:05,halidon,7,none,upland,UP30A,HH30,74,,0,NOCA,,,1,1
+6/13/2023,2023,8:05,halidon,7,none,upland,UP30A,HH30,74,,0,DOWO,,,1,1
+6/13/2023,2023,8:19,halidon,7,none,upland,UP43A,HH43,74,,1,NOCA,,1,,1
+6/13/2023,2023,8:19,halidon,7,none,upland,UP43A,HH43,74,,1,CARW,,,1,1
+6/13/2023,2023,8:19,halidon,7,none,upland,UP43A,HH43,74,,1,COYE,,1,1,2
+6/13/2023,2023,8:19,halidon,7,none,upland,UP43A,HH43,74,,1,EATO,,,1,1
+6/13/2023,2023,8:19,halidon,7,none,upland,UP43A,HH43,74,,1,MODO,,1,,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,RHWO,,,1,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,EABL,,,1,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,NOMO,,,1,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,EATO,,,1,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,GCFL,,,1,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,TUTI,,1,,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,RBWO,,,1,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,NOCA,,1,,1
+6/13/2023,2023,7:08,halidon,2,canopy clear,upland,UP22A,HH22,71,,1,OROR,,,1,1
+6/13/2023,2023,7:23,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,1,COYE,,1,1,2
+6/13/2023,2023,7:23,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,1,EABL,,1,,1
+6/13/2023,2023,7:23,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,1,BGGN,,1,,1
+6/13/2023,2023,7:23,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,1,RBWO,,,1,1
+6/13/2023,2023,7:23,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,1,BASP,,,1,1
+6/13/2023,2023,7:23,halidon,2,cut leave,wetland,HH17,UP17A,71,yes,1,BHNU,,,1,1
+6/13/2023,2023,7:35,halidon,2,canopy clear,upland,UP17A,HH17,72,,0,TUTI,,,1,1
+6/13/2023,2023,7:35,halidon,2,canopy clear,upland,UP17A,HH17,72,,0,NOCA,,,1,1
+6/13/2023,2023,7:35,halidon,2,canopy clear,upland,UP17A,HH17,72,,0,BHNU,,2,,2
+6/13/2023,2023,7:35,halidon,2,canopy clear,upland,UP17A,HH17,72,,0,DOWO,,,1,1
+6/13/2023,2023,8:28,halidon,7,none,upland,UP45A,HH45,76,,0,OROR,,,1,1
+6/13/2023,2023,8:28,halidon,7,none,upland,UP45A,HH45,76,,0,NOCA,,,1,1
+6/13/2023,2023,8:28,halidon,7,none,upland,UP45A,HH45,76,,0,COYE,,1,1,2
+6/13/2023,2023,8:28,halidon,7,none,upland,UP45A,HH45,76,,0,BLGR,,1,,1
+6/13/2023,2023,8:28,halidon,7,none,upland,UP45A,HH45,76,,0,PRWA,,1,,1
+6/13/2023,2023,8:41,halidon,7,none,wetland,HH43,UP43A,77,no,0,NOCA,,,1,1
+6/13/2023,2023,8:41,halidon,7,none,wetland,HH43,UP43A,77,no,0,WEVI,,,1,1
+6/13/2023,2023,8:41,halidon,7,none,wetland,HH43,UP43A,77,no,0,NOPA,,1,,1
+6/13/2023,2023,8:41,halidon,7,none,wetland,HH43,UP43A,77,no,0,COYE,,,1,1
+6/13/2023,2023,8:41,halidon,7,none,wetland,HH43,UP43A,77,no,0,CARW,,,1,1
+6/13/2023,2023,8:41,halidon,7,none,wetland,HH43,UP43A,77,no,0,BGGN,,,1,1
+6/14/2023,2023,6:32,halidon,7,none,upland,UP30A,HH30,69,,0,INBU,,,1,1
+6/14/2023,2023,6:32,halidon,7,none,upland,UP30A,HH30,69,,0,EATO,,,1,1
+6/14/2023,2023,6:32,halidon,7,none,upland,UP30A,HH30,69,,0,BLGR,,1,,1
+6/14/2023,2023,6:32,halidon,7,none,upland,UP30A,HH30,69,,0,NOCA,,,1,1
+6/14/2023,2023,6:32,halidon,7,none,upland,UP30A,HH30,69,,0,EAKI,,1,,1
+6/14/2023,2023,6:32,halidon,7,none,upland,UP30A,HH30,69,,0,COYE,,,1,1
+6/14/2023,2023,6:49,halidon,3,none,upland,UP50A,HH50,70,,1,TUTI,,1,,1
+6/14/2023,2023,6:49,halidon,3,none,upland,UP50A,HH50,70,,1,BLJA,,1,,1
+6/14/2023,2023,6:49,halidon,3,none,upland,UP50A,HH50,70,,1,INBU,,,1,1
+6/14/2023,2023,6:49,halidon,3,none,upland,UP50A,HH50,70,,1,CACH,,2,,2
+6/14/2023,2023,6:49,halidon,3,none,upland,UP50A,HH50,70,,1,YTWA,,,1,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,PIWA,,2,,2
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,GCFL,,1,,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,YTWA,,1,,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,NOCA,,,1,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,RBWO,,,1,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,TUTI,,1,1,2
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,CACH,,1,,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,DOWO,,,1,1
+6/14/2023,2023,6:57,halidon,3,none,upland,UP03,HH49,70,,0,KILL,,,1,1
+6/14/2023,2023,7:08,halidon,3,cut remove,upland,HH50,UP50A,71,no,3,YTWA,,1,1,2
+6/14/2023,2023,7:08,halidon,3,cut remove,upland,HH50,UP50A,71,no,3,PIWA,,,2,2
+6/14/2023,2023,7:08,halidon,3,cut remove,upland,HH50,UP50A,71,no,3,NOCA,,,1,1
+6/14/2023,2023,7:08,halidon,3,cut remove,upland,HH50,UP50A,71,no,3,NOMO,,1,,1
+6/14/2023,2023,7:08,halidon,3,cut remove,upland,HH50,UP50A,71,no,3,BASP,,,1,1
+6/14/2023,2023,7:08,halidon,3,cut remove,upland,HH50,UP50A,71,no,3,RBWO,,,1,1
+6/14/2023,2023,7:54,halidon,7,none,upland,UP46A,HH46,73,,4,COYE,,,1,1
+6/14/2023,2023,7:54,halidon,7,none,upland,UP46A,HH46,73,,4,BASP,,,1,1
+6/14/2023,2023,7:54,halidon,7,none,upland,UP46A,HH46,73,,4,TUTI,,,1,1
+6/14/2023,2023,7:54,halidon,7,none,upland,UP46A,HH46,73,,4,BLGR,,1,,1
+6/14/2023,2023,7:54,halidon,7,none,upland,UP46A,HH46,73,,4,EATO,,,1,1
+6/14/2023,2023,8:06,halidon,7,none,wetland,HH46,UP46A,74,yes,2,RBWO,,2,,2
+6/14/2023,2023,8:06,halidon,7,none,wetland,HH46,UP46A,74,yes,2,COYE,,2,1,3
+6/14/2023,2023,8:06,halidon,7,none,wetland,HH46,UP46A,74,yes,2,NOCA,,2,,2
+6/14/2023,2023,8:06,halidon,7,none,wetland,HH46,UP46A,74,yes,2,BGGN,,1,,1
+6/14/2023,2023,8:06,halidon,7,none,wetland,HH46,UP46A,74,yes,2,RTHU,,1,,1
+6/14/2023,2023,8:06,halidon,7,none,wetland,HH46,UP46A,74,yes,2,YBCH,,1,,1
+6/14/2023,2023,8:16,halidon,7,none,wetland,HH45,UP45A,74,no,1,COYE,,1,1,2
+6/14/2023,2023,8:16,halidon,7,none,wetland,HH45,UP45A,74,no,1,BASP,,,1,1
+6/14/2023,2023,8:16,halidon,7,none,wetland,HH45,UP45A,74,no,1,NOCA,,,1,1
+6/14/2023,2023,8:16,halidon,7,none,wetland,HH45,UP45A,74,no,1,EABL,,,1,1
+6/14/2023,2023,7:19,halidon,3,none,wetland,HH49,UP03,72,no,0,NOCA,,2,,2
+6/14/2023,2023,7:19,halidon,3,none,wetland,HH49,UP03,72,no,0,PIWA,,3,,3
+6/14/2023,2023,7:19,halidon,3,none,wetland,HH49,UP03,72,no,0,BASP,,,1,1
+6/14/2023,2023,7:19,halidon,3,none,wetland,HH49,UP03,72,no,0,RHWO,,2,,2
+6/14/2023,2023,7:19,halidon,3,none,wetland,HH49,UP03,72,no,0,EAWP,,,1,1
+6/14/2023,2023,7:30,halidon,3,cut leave,wetland,HH48,UP48A,72,yes,2,DOWO,,1,,1
+6/14/2023,2023,7:30,halidon,3,cut leave,wetland,HH48,UP48A,72,yes,2,NOCA,,2,,2
+6/14/2023,2023,7:30,halidon,3,cut leave,wetland,HH48,UP48A,72,yes,2,TUTI,,,2,2
+6/14/2023,2023,7:30,halidon,3,cut leave,wetland,HH48,UP48A,72,yes,2,BLGR,,,1,1
+6/14/2023,2023,7:40,halidon,3,canopy clear,upland,UP48A,HH48,73,,1,NOCA,,1,,1
+6/14/2023,2023,7:40,halidon,3,canopy clear,upland,UP48A,HH48,73,,1,TUTI,,,1,1
+6/14/2023,2023,7:40,halidon,3,canopy clear,upland,UP48A,HH48,73,,1,DOWO,,1,,1
+6/14/2023,2023,7:40,halidon,3,canopy clear,upland,UP48A,HH48,73,,1,CACH,,2,,2
+6/14/2023,2023,7:40,halidon,3,canopy clear,upland,UP48A,HH48,73,,1,RBWO,,,1,1
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,0
